@@ -1,6 +1,9 @@
 #Morride
-[![Build Status](https://travis-ci.org/UMM-CSci-3601-S19/iteration-4-endgame.svg?branch=master)](https://travis-ci.org/UMM-CSci-3601-S19/iteration-4-endgame)
-##Tools, Frameworks, and Methods used
+
+[![Build Status](https://travis-ci.org/UMM-CSci-3601-S19/iteration-4-endgame.svg?branch=master)](https://travis-ci.org/UMM-CSci-3601-S19/iteration-4-endgame
+
+## Tools, Frameworks, and Methods used
+
 Languages and APIs
 -	Java Spark
 -	Mongo DB
