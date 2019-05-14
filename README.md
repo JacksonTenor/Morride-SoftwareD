@@ -6,7 +6,7 @@ Morride is a ridesharing platform designed for the Morris community. Lots of stu
 
 This project was created as a part of CSCI 3601, which I took in Spring 2019. 
 
-![Morride Ride List](Documentation/images/morride-ride-list.PNG)
+![Morride Ride List](Documentation/images/morride-ridelist.PNG)
 
 A view of the application. Here you can add a ride, filter and view the ride list, edit or delete your rides, or join other rides.
 
