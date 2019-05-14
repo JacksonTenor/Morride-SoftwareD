@@ -50,7 +50,7 @@ We began our development with an inception deck, communicating with the customer
 ### Travis CI
 We used Travis-CI for continuous integration. This was incredibly useful throughout the project, not only letting us know whether our code passed testing or not, but additionally holding group members accountable for testing their code well. Finally, because we implemented slack updates whenever a build ran, it kept group members up to date with the most recent changes and the general status of the project
 
-![Travis CI](./Documentation/images/travis-CI.png)
+![Travis CI](Documentation/images/Travis-CI.PNG)
 
 ### Slack
 Slack was the primary tool we used for communication between team members. This was an incredibly useful thing to have, especially in an environment where we had to regularly schedule meeting times that fit some busy schedules. This was made even better by integrating plugins like Travis to notify us about builds. 
