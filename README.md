@@ -6,7 +6,7 @@ Morride is a ridesharing platform designed for the Morris community. Lots of stu
 
 This project was created as a part of CSCI 3601, which I took in Spring 2019. 
 
-## Tools, Frameworks, and Methods used
+## Tools, Frameworks, and Methods
 
 Languages and APIs
 -	Java Spark
@@ -27,7 +27,7 @@ Testing/Continuous Integration
 -	Protractor (End to End Testing)
 
 
-## Development
+## Development Process
 
 Iteration 1
 During the first iteration, we created a basic CRUD app, allowing for users to create, view, edit, and delete rides. I primarily worked on the server-side code, writing an API to interface with our Mongo database. Additionally, I was part of a group that helped provide guidelines for what our database should look like for this project. After getting the back end working and tested, I worked with other developers who had been working on the front end to connect with the API.
