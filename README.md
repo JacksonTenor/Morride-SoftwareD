@@ -2,6 +2,9 @@
 
 # Morride
 
+Morride is a ridesharing platform designed for the Morris community. Lots of students who go to Morris do not have cars, but still need to get around, whether it's a long trip or during the brutal Minnesota winter, these students rely on others to get around. However, since we cut our previous ride sharing platform due to extremely high costs, our student Facebook page has been flooded with rideshare requests, which isn't the best place for them. We created this platform to take these requests off of Facebook and into a platform exclusive to ridesharing. 
+
+This project was created as a part of CSCI 3601, which I took in Spring 2019. 
 
 ## Tools, Frameworks, and Methods used
 
@@ -27,7 +30,7 @@ Testing/Continuous Integration
 ## Development
 
 Iteration 1
-During the first iteration, we implemented a basic CRUD app, allowing for users to create, view, edit, and delete rides. I primarily worked on the server-side code, writing an API to interface with our Mongo database. Additionally, I was part of a group that helped provide guidelines for what our database should look like for this project. After getting the back end working and tested, I worked with other developers who had been working on the front end to connect with the API.
+During the first iteration, we created a basic CRUD app, allowing for users to create, view, edit, and delete rides. I primarily worked on the server-side code, writing an API to interface with our Mongo database. Additionally, I was part of a group that helped provide guidelines for what our database should look like for this project. After getting the back end working and tested, I worked with other developers who had been working on the front end to connect with the API.
 Due to this iteration being at the start of the course, proper use of GitHub and general development practices began low. I encouraged my group to use pull requests, preferably with a code review, as well as including testing with all code as you write it. However, we didn’t do the best job of this always, myself included. I’ve included two pull requests that show some of my contributions to the project.
 https://github.com/UMM-CSci-3601-S19/iteration-1-javu/pull/22
 https://github.com/UMM-CSci-3601-S19/iteration-1-javu/pull/28
